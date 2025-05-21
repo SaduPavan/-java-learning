@@ -1,5 +1,0 @@
-python-docx
-language-tool-python
-requests
-python-dotenv
-Pillow 
