@@ -2,6 +2,8 @@
 
 A comprehensive guide to learning Java programming, from fundamentals to advanced topics.
 
+Last Updated: May 21, 2024
+
 ## Learning Path Structure
 
 ### 1. [Java Fundamentals](01_java_fundamentals/README.md)
