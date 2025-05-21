@@ -1,0 +1,60 @@
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.sublime-*
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+logs/
+log/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+target/
+build/
+out/
+bin/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Python files (if any)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node files (if any)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other
+*.bak
+*.orig
+*.rej
+*.patch 
